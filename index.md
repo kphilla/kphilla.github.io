@@ -1,29 +1,17 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Phillip Smith
+tagline: School of Computer Science
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+Hi, my name is Phillip Smith, and I am a Research Student at the University of Birmingham, under the supervision of [Dr. Mark Lee](http://www.cs.bham.ac.uk/~mgl). 
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+I am interested in Natural Language Processing, in particular, Sentiment Analysis. My motivation is to contribute research into creating a general model of sentiment within text, which is independant of domain. I would hope that this model will handle some of the subtler forms of day-to-day language that we take for granted (yet contribute so much), such as metaphor. My interest in this field stems from a curiosity surrounding the length to which mining of textual data can go in producing unexpected conclusions, and revealing the great wealth that such data holds. 
 
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
+In addition to my research, I am a Senior Teaching Associate, lecturing for MSc Fundamentals: Introduction to Computer Science, and for the second year BSc Software System Components and first year Language & Logic modules. I am also a member of the Research Committee. 
     
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+## Publications
 
 This blog contains sample posts which help stage pages and blog data.
 When you don't need the samples anymore just delete the `_posts/core-samples` folder.
@@ -38,9 +26,5 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
 
 
